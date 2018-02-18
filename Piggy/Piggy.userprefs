@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Hat Trick - The Catch Game\Scripts\HT_GameController.cs">
+    <Files>
+      <File FileName="Assets\Hat Trick - The Catch Game\Scripts\HT_HatController.cs" Line="23" Column="2" />
+      <File FileName="Assets\Hat Trick - The Catch Game\Scripts\HT_Restart.cs" Line="1" Column="1" />
+      <File FileName="Assets\Hat Trick - The Catch Game\Scripts\HT_GameController.cs" Line="24" Column="4" />
+      <File FileName="Assets\Hat Trick - The Catch Game\Scripts\HT_DestroyOnContact.cs" Line="10" Column="1" />
+      <File FileName="Assets\Hat Trick - The Catch Game\Scripts\HT_StartGame.cs" Line="9" Column="23" />
+      <File FileName="Assets\Hat Trick - The Catch Game\Scripts\HT_Score.cs" Line="16" Column="9" />
+      <File FileName="Assets\Hat Trick - The Catch Game\Scripts\HT_Explode.cs" Line="7" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
